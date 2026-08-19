@@ -78,14 +78,6 @@ A web-based file management application designed for uploading, storing, downloa
 
 ---
 
-### 4. Blood Bank Management System
-
-A web-based application designed to manage blood donor information, blood inventory and related operations.
-
-**Technologies:**
-
-`Node.js` `Express.js` `MongoDB` `JavaScript`
-
 ## 🛠️ Technical Skills
 
 ### Languages
@@ -93,8 +85,7 @@ A web-based application designed to manage blood donor information, blood invent
 - Java
 - JavaScript
 - SQL
-- C
-- C++
+
 
 ### Backend
 
@@ -103,8 +94,6 @@ A web-based application designed to manage blood donor information, blood invent
 - Spring Data JPA
 - Hibernate
 - REST APIs
-- Node.js
-- Express.js
 - JWT Authentication
 
 ### Frontend
